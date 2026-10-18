@@ -8,6 +8,6 @@ int main() {
 	std::cin >> x; 
 	std::cout << "Введите второе число: ";
 	std::cin >> y; 
-	std::cout << (x+y)*2;
+	std::cout << "Результат: " << (x+y)*2;
 	return 0;
 }
